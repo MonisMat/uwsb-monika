@@ -1,8 +1,6 @@
-# uwsb-monika
+# uwsb-2024-net-webapp-ci-cd-azure
 
-Hello world!
-Fajnie się programuje 
+Repozytorium na potrzeby laboratoriów z GIT, CI-CD, Azure oraz programowania aplikacji webowych w Microsoft .NET
+(c) 2024
 
-
-
-Plik zmodyfikowany przez kogoś innego
+aplikacja web merito 
